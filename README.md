@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yeonjisong
+- 👋 Hi, I’m YeonJi.
 - 👀 I’m interested in Deep Reinforcement Learning and Robotics.
 - 🌱 I enjoy being inspired by Neuroscience and Cognitive Science to understand human intelligence for AI.
 <!-- - 💞️ I’m looking to collaborate on ... -->
