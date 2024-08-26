@@ -1,5 +1,5 @@
 - 👋 Hi, I’m YeonJi.
-- 👀 I’m interested in Deep Reinforcement Learning and Robotics.
+- 👀 I’m interested in 3D vision, representation learning, and reinforcement learning. Specifically, learning representations in a self-supervised and structured way.
 - 🌱 I enjoy being inspired by Neuroscience and Cognitive Science to understand human intelligence for AI.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
